@@ -1,0 +1,31 @@
+Session planning:
+
+Githib location: https://github.kp.org/AKME/APA_Encounters_CCA/tree/Anu > Copy the code 
+
+1. Introduction
+2. Set up
+	1. Check python version
+	2. Check VSCode 
+	3. Install python extension in VSCode
+	4. Create python program folder or use your current python program folder
+	5. Download the code from Github : https://github.kp.org/AKME/APA_Encounters_CCA/tree/Anu
+	6. Copy requirements.txt to python program folder
+	7. Create virtual enviroment > Control+Shift+P
+	8. Create output location in local machine: C:\\Azure\\Batch\\Output\\SharedEnrichment\\
+	9. Create input location in local machine: C:\\Azure\\Batch\\Output\\SharedEnrichment\\
+	10. Create output location in SAS server(https://apps.kp.org/Citrix/NATLWeb/)  : /gpfs/FS2/sasdata/adhoc/kpinsight/shared/data/DBX/AnuN/
+3. Program
+	a. In the python program folder
+		> Copy the sample python program
+		> Open Sample python program in VSCode
+	b. Input location : 
+		> Update input location : C:\\Azure\\Batch\\Output\\SharedEnrichment\\
+		> Copy input file 
+	c. Output location : 
+		> Update output location : C:\\Azure\\Batch\\Output\\SharedEnrichment\\
+		> Update output location in SAS server   : /gpfs/FS2/sasdata/adhoc/kpinsight/shared/data/DBX/AnuN/
+	d. Update input and output location in the progtam , line 35 and 36
+	e. Enter ID/Pwd in the program for SAS , line 172 and 173
+	f. Enter ID/Pwd in the program for Oracle connection , Line 88 and 89
+	g. Enter kaiser email-id for DBX (not required) 
+

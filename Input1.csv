@@ -1,0 +1,17 @@
+Database,Environment,SchemaName,TableName,Download,Count,Date
+DBX,PSUP,cfd_prod.enr_hcclcs02_v,ZC_DISP_ENC_TYPE,Y,,
+DBX,PSUP,cfd_prod.enr_hcclcs02_v,ZC_EPI_STATUS,N,,
+DBX,PSUP,cfd_prod.enr_hcclcs02_v,ZC_FIN_CLASS,N,,
+DBX,PSUP,cfd_prod.enr_hcclcs02_v,ZC_HH_TYPE_OF_SVC,N,,
+DBX,PSUP,cfd_prod.enr_hcclcs02_v,ZC_HSPC_NO_ADM,N,,
+DBX,PSUP,cfd_prod.enr_hcclcs02_v,ZC_NOTE_SER,N,,
+DBX,PSUP,cfd_prod.enr_hcclcs02_v,ZC_REASON_DISCH,N,,
+DBX,PSUP,cfd_prod.enr_hcclcs02_v,ZC_RFL_CLASS,N,,
+DBX,PSUP,cfd_prod.enr_hcclcs02_v,ZC_RFL_SRC_RPT,N,,
+DBX,PSUP,cfd_prod.enr_hcclcs02_v,ZC_RFL_STATUS,N,,
+DBX,PSUP,cfd_prod.enr_hcclcs02_v,ZC_RFL_TYPE,N,,
+DBX,PSUP,cfd_prod.enr_hcclcs02_v,ZC_SUM_BLK_TYPE,N,,
+DBX,PSUP,cfd_prod.enr_extl_ref_v,Drg_icd10_base,N,,8-Apr
+DBX,PSUP,cfd_prod.enr_extl_ref_v,Hcpcs_base,N,,8-Apr
+DBX,PSUP,cfd_prod.enr_extl_ref_v,Icd10_cm_base,N,,8-Apr
+IDR,PROD,IDR_V,ZC_CMN_CTGRY,Y,,
